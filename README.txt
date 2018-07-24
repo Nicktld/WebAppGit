@@ -19,3 +19,8 @@ Date: March 13, 2018
 
 
 --------------------------------
+
+Review the code. Rebuild the website.
+
+Author: Ledong Tang
+Date: July 24, 2018
